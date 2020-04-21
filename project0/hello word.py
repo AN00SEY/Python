@@ -1,1 +1,1 @@
-print("hello word Aas")
+print("hello word Anas")
