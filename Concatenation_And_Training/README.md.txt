@@ -1,0 +1,2 @@
+Concatenation_And_Training
+ربط النصوص مع بعضها
